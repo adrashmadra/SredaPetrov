@@ -12,7 +12,7 @@ import android.widget.Toast;
 
 public class MainActivity extends ListActivity {
 
-    String[] things = { "Флаг 1", "Флаг 2", "Флаг 3", "Флаг 4"};
+    String[] things = { "Аргентина", "Бразилия", "Чили", "Колумбия"};
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
